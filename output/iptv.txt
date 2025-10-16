@@ -1,4 +1,5 @@
 港澳海外,#genre#
+PopC,https://011.judy.edu.kg/stream/tvb/popc/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 翡翠台,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
@@ -26,6 +27,7 @@
 娱乐新闻,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
 千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 千禧经典,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+千禧经典,https://011.judy.edu.kg/stream/tvb/null/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 TVB星河(粤语),http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河(粤语),http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB星河(国语),http://php.jdshipin.com/smt.php?id=Xinhe
@@ -41,13 +43,16 @@ TVB Plus,http://r.jdshipin.com/ndGgS
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰中文,https://011.judy.edu.kg/stream/tvb/null-4/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰资訊,https://011.judy.edu.kg/stream/tvb/null-3/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+凤凰香港,https://011.judy.edu.kg/stream/tvb/null-2/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
@@ -67,8 +72,10 @@ RTHK33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+天映经典,http://play-ali.cloudvdn.com/live/00987tp0035.flv
 美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+1905电影,http://php.jdshipin.com/1905.php
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
@@ -87,6 +94,8 @@ Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
+Global Trekker,https://011.judy.edu.kg/stream/tvb/globaltrekker/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+ROCK Action,https://011.judy.edu.kg/stream/tvb/rockaction/master.m3u8?u=judy&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳门莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
@@ -278,6 +287,7 @@ IPTV综合,#genre#
 中学生,rtsp://183.59.156.166/PLTV/88888895/224/3221228262/10000100000000060000000007632968_0.smil?rrsip=125.88.104.40,rrsip=125.88.70.140&zoneoffset=0&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EfRHzo7eyvYIEU1UITZ3vHQ%7ED5bKWtXBaFJFrU870BNAbxTizDSWFWpOCXis_wZDuyQCWKhP7OGw8GsUngBQt_X-CJNbof9D8fLWgCyR_BbALVDL4wIEqaIWbj7f9RvUBk4%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250828135813%2C21413756%2C10.169.65.130%2C20250828135813%2C31000100000000050000000000503658%2C21413756%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000007632968_0%2CEND
 山东教育,rtsp://183.59.156.166/PLTV/88888905/224/3221227244/10000100000000060000000000987144_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.40&zoneoffset=480&icpid=1111116&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Ein5f7PcY0KtfHyrsmIhhoQ%7ED5bKWtXBaFJFrU870BNAbxTizDSWFWpOCXis_wZDuyQCWKhP7OGw8GsUngBQt_X-CJNbof9D8fLWgCyR_BbALVDL4wIEqaIWbj7f9RvUBk4%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250928111912%2C28589592%2C10.91.47.116%2C20250928111912%2C02000001000000050000000000000378%2C28589592%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000000987144_0%2CEND&GuardEncType=2
 书画,rtsp://183.59.156.166/PLTV/88888895/224/3221227217/10000100000000060000000000984084_0.smil?rrsip=125.88.104.40,rrsip=125.88.70.140&zoneoffset=0&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EROGWRkOhhI7s6Z8YtD76MQ%7ED5bKWtXBaFJFrU870BNAbxTizDSWFWpOCXis_wZDuyQCWKhP7OGw8GsUngBQt_X-CJNbof9D8fLWgCyR_BbALVDL4wIEqaIWbj7f9RvUBk4%7EExtInfoPC2ZKLw95m5z2wHEEFeSaQ%3A20250828135813%2C21413756%2C10.169.65.130%2C20250828135813%2C31000100000000050000000000145254%2C21413756%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000984084_0%2CEND
+
 
 
 
